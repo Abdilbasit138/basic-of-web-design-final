@@ -60,3 +60,7 @@ li a:hover {
     background: #333;
   }
 }
+
+.soles {
+  display: flex;
+}
